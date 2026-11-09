@@ -1,0 +1,627 @@
+{
+"versione":1,
+"scritto":1794231691503,
+"aggiornamenti":{
+"argentina-a":{
+"asOf":"all'8 novembre (Torneo Clausura)",
+"fonte":"https://www.espn.com/soccer/standings/_/league/arg.1",
+"rows":"Instituto|34|16|10|4|2|26|15\nBoca Juniors|33|16|9|6|1|24|14\nVélez Sarsfield|28|16|7|7|2|25|17\nDefensa y Justicia|28|16|8|4|4|21|15\nLanús|25|15|7|4|4|18|11\nNewell's Old Boys|23|16|5|8|3|16|13\nIndependiente|23|16|6|5|5|15|16\nGimnasia Mendoza|22|16|6|4|6|18|17\nUnión Santa Fe|21|16|6|3|7|24|24\nPlatense|20|16|5|5|6|18|20\nSan Lorenzo|19|16|5|4|7|9|16\nEstudiantes|16|16|4|4|8|21|22\nTalleres|13|16|3|4|9|17|23\nDeportivo Riestra|12|16|2|6|8|11|19\nCentral Córdoba|10|15|2|4|9|11|25",
+"updatedAt":1794231691503
+},
+"argentina-b":{
+"asOf":"all'8 novembre (Torneo Clausura)",
+"fonte":"https://www.espn.com/soccer/standings/_/league/arg.1",
+"rows":"Rosario Central|34|16|10|4|2|26|12\nArgentinos Juniors|31|16|9|4|3|20|14\nGimnasia La Plata|31|16|9|4|3|25|20\nRiver Plate|26|16|8|2|6|21|14\nBarracas Central|26|16|7|5|4|17|13\nBelgrano|23|16|6|5|5|17|15\nIndependiente Rivadavia|23|16|6|5|5|21|24\nHuracán|22|16|6|4|6|14|16\nSarmiento|21|16|6|3|7|23|24\nTigre|19|16|5|4|7|16|16\nAtlético Tucumán|18|16|4|6|6|16|17\nBanfield|15|16|3|6|7|18|25\nRacing Club|15|16|4|3|9|16|24\nAldosivi|11|16|3|2|11|16|26\nEstudiantes Río Cuarto|9|16|2|3|11|10|23",
+"updatedAt":1794231691503
+},
+"bundesliga":{
+"asOf":"dopo la 9ª giornata",
+"fonte":"https://www.bundesliga.com/de/bundesliga/tabelle",
+"rounds":[
+{
+"m":[
+{
+"a":"Borussia M'gladbach",
+"h":"Amburgo",
+"sa":1,
+"sh":3,
+"t":"2026-11-06T20:30"
+},
+{
+"a":"Elversberg",
+"h":"Borussia Dortmund",
+"sa":1,
+"sh":2,
+"t":"2026-11-07T15:30"
+},
+{
+"a":"Augusta",
+"h":"RB Lipsia",
+"sa":2,
+"sh":5,
+"t":"2026-11-07T15:30"
+},
+{
+"a":"Bayern Monaco",
+"h":"Magonza",
+"sa":2,
+"sh":1,
+"t":"2026-11-07T15:30"
+},
+{
+"a":"Eintracht Francoforte",
+"h":"Paderborn",
+"sa":2,
+"sh":2,
+"t":"2026-11-07T15:30"
+},
+{
+"a":"Werder Brema",
+"h":"Stoccarda",
+"sa":0,
+"sh":1,
+"t":"2026-11-07T18:30"
+},
+{
+"a":"Bayer Leverkusen",
+"h":"Colonia",
+"sa":2,
+"sh":1,
+"t":"2026-11-08T15:30"
+},
+{
+"a":"Union Berlino",
+"h":"Friburgo",
+"sa":0,
+"sh":2,
+"t":"2026-11-08T17:30"
+},
+{
+"a":"Schalke 04",
+"h":"Hoffenheim",
+"sa":1,
+"sh":2,
+"t":"2026-11-08T19:30"
+}
+],
+"name":"9ª giornata"
+},
+{
+"m":[
+{
+"a":"Colonia",
+"h":"Bayern Monaco",
+"t":"2026-11-20T20:30"
+},
+{
+"a":"Paderborn",
+"h":"Bayer Leverkusen",
+"t":"2026-11-21T15:30"
+},
+{
+"a":"Borussia Dortmund",
+"h":"Borussia M'gladbach",
+"t":"2026-11-21T15:30"
+},
+{
+"a":"Hoffenheim",
+"h":"Eintracht Francoforte",
+"note":"Orario da definire (20–22 nov)"
+},
+{
+"a":"Magonza",
+"h":"Augusta",
+"note":"Orario da definire (20–22 nov)"
+},
+{
+"a":"RB Lipsia",
+"h":"Union Berlino",
+"note":"Orario da definire (20–22 nov)"
+},
+{
+"a":"Amburgo",
+"h":"Werder Brema",
+"note":"Orario da definire (20–22 nov)"
+},
+{
+"a":"Stoccarda",
+"h":"Schalke 04",
+"note":"Orario da definire (20–22 nov)"
+},
+{
+"a":"Friburgo",
+"h":"Elversberg",
+"note":"Orario da definire (20–22 nov)"
+}
+],
+"name":"10ª giornata"
+}
+],
+"rows":"Bayern Monaco|21|9|6|3|0|29|9\nBorussia Dortmund|21|9|6|3|0|16|7\nFriburgo|19|9|6|1|2|20|10\nRB Lipsia|18|9|6|0|3|27|13\nBayer Leverkusen|16|9|5|1|3|20|17\nWerder Brema|15|9|4|3|2|17|15\nElversberg|13|9|4|1|4|17|18\nStoccarda|12|9|4|0|5|15|15\nHoffenheim|12|9|4|0|5|16|17\nEintracht Francoforte|12|9|3|3|3|15|20\nAmburgo|12|9|4|0|5|10|20\nMagonza|10|9|3|1|5|18|19\nPaderborn|10|9|2|4|3|8|11\nAugusta|9|9|2|3|4|20|20\nColonia|9|9|2|3|4|10|14\nUnion Berlino|7|9|1|4|4|7|21\nSchalke 04|6|9|1|3|5|5|11\nBorussia M'gladbach|4|9|1|1|7|12|25",
+"updatedAt":1794231691503
+},
+"ecc-sicilia-a":{
+"asOf":"dopo la 9ª giornata",
+"fonte":"https://www.datasport.it/calcio/eccellenza-sicilia-girone-a2026-2027/classifica/",
+"rows":"Montelepre|20|9|6|2|1|18|9\nSancataldese|20|9|6|2|1|14|5\nMarsala|20|9|6|2|1|14|5\nAlcamo|17|9|5|2|2|10|6\nDon Carlo Lauri Misilmeri|16|9|4|4|1|9|4\nCastellammare|16|9|4|4|1|8|3\nKamarat|14|9|3|5|1|13|8\nSan Giorgio Piana|14|9|4|2|3|10|10\nAkragas|13|9|4|1|4|8|7\nPartinicaudace|13|9|4|1|4|10|11\nCittà Di San Vito Lo Capo|10|9|3|1|5|15|15\nLascari - Cefalù|8|9|2|2|5|7|19\nUnitas Sciacca|7|9|2|1|6|12|13\n90011 Bagheria|7|9|2|1|6|4|12\nParmonval|4|9|1|1|7|4|13\nVigor Borgetto|1|9|0|1|8|4|20",
+"updatedAt":1794177585620
+},
+"ecc-sicilia-b":{
+"asOf":"dopo la 9ª giornata",
+"fonte":"https://www.datasport.it/calcio/eccellenza-sicilia-girone-b2026-2027/classifica/",
+"rows":"Acireale FC|19|9|6|1|2|18|10\nNiscemi|19|9|6|1|2|14|8\nMazzarrone|18|9|5|3|1|12|6\nAthletic Gioiosa|15|9|4|3|2|15|7\nMessana Riviera|15|9|4|3|2|9|9\nNebros|13|9|3|4|2|8|6\nGymnica Scordia|13|9|4|1|4|12|18\nGiarre Calcio|10|9|2|4|3|9|10\nMelilli|9|9|2|3|4|12|12\nFC Vittoria|9|9|1|6|2|6|8\nAugusta FC|8|9|2|2|5|6|8\nJonica F.C.|8|9|2|2|5|11|14\nLeonzio 1909|6|9|1|3|5|9|15\nSport Club Palazzolo|5|9|1|2|6|12|23\nAtletico CT 1994 Viagrande|5|9|1|2|6|6|18\nACR Messina|3|9|7|2|0|18|5",
+"updatedAt":1794177585620
+},
+"eredivisie":{
+"asOf":"dopo la 12ª giornata",
+"fonte":"https://www.espn.com/soccer/standings/_/league/ned.1",
+"rows":"PSV|26|12|8|2|2|40|15\nFeyenoord|25|12|7|4|1|36|17\nAjax|25|12|7|4|1|32|15\nTwente|24|12|7|3|2|30|12\nAZ Alkmaar|23|12|7|2|3|24|16\nHeerenveen|21|12|6|3|3|24|16\nFortuna Sittard|20|12|5|5|2|20|20\nGo Ahead Eagles|17|12|4|5|3|24|27\nGroningen|15|12|4|3|5|29|28\nCambuur|15|12|4|3|5|25|27\nNEC Nijmegen|14|12|3|5|4|20|21\nSparta Rotterdam|12|12|3|3|6|21|29\nPEC Zwolle|12|12|3|3|6|13|24\nUtrecht|12|12|3|3|6|21|34\nExcelsior|11|12|3|2|7|16|29\nTelstar|10|12|2|4|6|18|25\nADO Den Haag|9|12|2|3|7|16|25\nWillem II|3|12|0|3|9|11|40",
+"updatedAt":1794231691503
+},
+"laliga":{
+"asOf":"dopo la 12ª giornata",
+"fonte":"https://www.espn.com/soccer/standings/_/league/esp.1",
+"rounds":[
+{
+"m":[
+{
+"a":"Alavés",
+"h":"Siviglia",
+"sa":0,
+"sh":0,
+"t":"2026-11-06T21:00"
+},
+{
+"a":"Racing Santander",
+"h":"Málaga",
+"sa":2,
+"sh":1,
+"t":"2026-11-07T14:00"
+},
+{
+"a":"Deportivo La Coruña",
+"h":"Espanyol",
+"sa":0,
+"sh":0,
+"t":"2026-11-07T16:15"
+},
+{
+"a":"Athletic Club",
+"h":"Osasuna",
+"sa":1,
+"sh":1,
+"t":"2026-11-07T18:30"
+},
+{
+"a":"Real Madrid",
+"h":"Valencia",
+"sa":3,
+"sh":0,
+"t":"2026-11-07T21:00"
+},
+{
+"a":"Real Betis",
+"h":"Elche",
+"sa":2,
+"sh":0,
+"t":"2026-11-08T14:00"
+},
+{
+"a":"Rayo Vallecano",
+"h":"Real Sociedad",
+"sa":0,
+"sh":1,
+"t":"2026-11-08T16:15"
+},
+{
+"a":"Getafe",
+"h":"Villarreal",
+"sa":0,
+"sh":2,
+"t":"2026-11-08T18:30"
+},
+{
+"a":"Levante",
+"h":"Celta Vigo",
+"sa":0,
+"sh":0,
+"t":"2026-11-08T18:30"
+},
+{
+"a":"Barcellona",
+"h":"Atlético Madrid",
+"sa":2,
+"sh":1,
+"t":"2026-11-08T21:00"
+}
+],
+"name":"12ª giornata"
+},
+{
+"m":[
+{
+"a":"Espanyol",
+"h":"Athletic Club",
+"t":"2026-11-20T21:00"
+},
+{
+"a":"Deportivo La Coruña",
+"h":"Alavés",
+"note":"Data da definire (20–23 nov)"
+},
+{
+"a":"Celta Vigo",
+"h":"Real Madrid",
+"note":"Data da definire (20–23 nov)"
+},
+{
+"a":"Valencia",
+"h":"Rayo Vallecano",
+"note":"Data da definire (20–23 nov)"
+},
+{
+"a":"Real Betis",
+"h":"Siviglia",
+"note":"Data da definire (20–23 nov)"
+},
+{
+"a":"Villarreal",
+"h":"Barcellona",
+"t":"2026-11-22T14:00"
+},
+{
+"a":"Real Sociedad",
+"h":"Racing Santander",
+"t":"2026-11-22T16:15"
+},
+{
+"a":"Málaga",
+"h":"Osasuna",
+"t":"2026-11-22T18:30"
+},
+{
+"a":"Atlético Madrid",
+"h":"Getafe",
+"t":"2026-11-22T21:00"
+},
+{
+"a":"Elche",
+"h":"Levante",
+"t":"2026-11-23T21:00"
+}
+],
+"name":"13ª giornata"
+}
+],
+"rows":"Barcellona|33|12|11|0|1|48|13\nReal Madrid|30|12|10|0|2|31|10\nAtlético Madrid|28|12|9|1|2|23|10\nReal Betis|26|12|8|2|2|20|15\nReal Sociedad|22|12|7|1|4|21|20\nSiviglia|18|12|5|3|4|17|19\nAthletic Club|16|11|4|4|3|15|11\nVillarreal|15|12|4|3|5|17|15\nDeportivo La Coruña|15|12|3|6|3|15|14\nRacing Santander|14|12|4|2|6|17|30\nCelta Vigo|13|12|2|7|3|10|10\nAlavés|13|12|3|4|5|15|17\nEspanyol|12|12|3|3|6|13|14\nRayo Vallecano|12|11|3|3|5|15|21\nGetafe|12|12|3|3|6|8|18\nOsasuna|12|12|3|3|6|12|23\nLevante|11|12|2|5|5|16|21\nElche|10|12|2|4|6|14|20\nValencia|9|12|2|3|7|8|20\nMálaga|5|12|0|5|7|9|23",
+"updatedAt":1794231691503
+},
+"ligue-1":{
+"asOf":"dopo la 10ª giornata",
+"fonte":"https://www.footmercato.net/france/ligue-1/classement",
+"rounds":[
+{
+"m":[
+{
+"a":"Strasburgo",
+"h":"Tolosa",
+"sa":1,
+"sh":3,
+"t":"2026-11-06T20:45"
+},
+{
+"a":"Paris FC",
+"h":"Auxerre",
+"sa":1,
+"sh":0,
+"t":"2026-11-07T19:00"
+},
+{
+"a":"Troyes",
+"h":"Paris Saint-Germain",
+"sa":0,
+"sh":1,
+"t":"2026-11-07T21:05"
+},
+{
+"a":"Lilla",
+"h":"Rennes",
+"sa":2,
+"sh":1,
+"t":"2026-11-08T15:00"
+},
+{
+"a":"Nizza",
+"h":"Angers",
+"sa":2,
+"sh":0,
+"t":"2026-11-08T17:15"
+},
+{
+"a":"Lione",
+"h":"Brest",
+"sa":0,
+"sh":2,
+"t":"2026-11-08T17:15"
+},
+{
+"a":"Lorient",
+"h":"Le Havre",
+"sa":2,
+"sh":0,
+"t":"2026-11-08T17:15"
+},
+{
+"a":"Monaco",
+"h":"Le Mans",
+"sa":1,
+"sh":1,
+"t":"2026-11-08T17:15"
+},
+{
+"a":"Marsiglia",
+"h":"Lens",
+"sa":2,
+"sh":1,
+"t":"2026-11-08T20:45"
+}
+],
+"name":"10ª giornata"
+},
+{
+"m":[
+{
+"a":"Le Havre",
+"h":"Troyes",
+"t":"2026-11-20T20:45"
+},
+{
+"a":"Paris Saint-Germain",
+"h":"Nizza",
+"t":"2026-11-21T17:15"
+},
+{
+"a":"Lione",
+"h":"Lilla",
+"t":"2026-11-21T20:45"
+},
+{
+"a":"Tolosa",
+"h":"Lens",
+"t":"2026-11-21T20:45"
+},
+{
+"a":"Auxerre",
+"h":"Monaco",
+"t":"2026-11-21T20:45"
+},
+{
+"a":"Brest",
+"h":"Strasburgo",
+"t":"2026-11-21T20:45"
+},
+{
+"a":"Angers",
+"h":"Paris FC",
+"t":"2026-11-22T15:00"
+},
+{
+"a":"Rennes",
+"h":"Lorient",
+"t":"2026-11-22T17:15"
+},
+{
+"a":"Le Mans",
+"h":"Marsiglia",
+"t":"2026-11-22T20:45"
+}
+],
+"name":"11ª giornata"
+}
+],
+"rows":"Paris Saint-Germain|23|10|7|2|1|22|10\nLilla|21|10|6|3|1|14|7\nParis FC|20|10|6|2|2|17|10\nMarsiglia|18|10|6|0|4|22|14\nLione|17|10|5|2|3|15|9\nNizza|17|10|5|2|3|15|12\nMonaco|16|10|4|4|2|13|11\nRennes|16|10|5|1|4|21|21\nBrest|15|10|4|3|3|18|12\nLorient|15|10|4|3|3|9|8\nLens|13|10|4|1|5|17|15\nTolosa|13|10|3|4|3|15|14\nStrasburgo|10|10|3|1|6|18|22\nAuxerre|10|10|3|1|6|13|24\nLe Mans|8|10|1|5|4|12|19\nAngers|8|10|2|2|6|9|19\nTroyes|8|10|2|2|6|7|17\nLe Havre|2|10|0|2|8|9|22",
+"updatedAt":1794231691503
+},
+"premier-league":{
+"asOf":"dopo la 10ª giornata",
+"fonte":"https://www.espn.com/soccer/standings/_/league/eng.1",
+"rounds":[
+{
+"m":[
+{
+"a":"Coventry City",
+"h":"Everton",
+"sa":1,
+"sh":3,
+"t":"2026-11-06T21:00"
+},
+{
+"a":"Tottenham",
+"h":"Leeds United",
+"sa":0,
+"sh":1,
+"t":"2026-11-07T13:30"
+},
+{
+"a":"Hull City",
+"h":"Arsenal",
+"sa":0,
+"sh":1,
+"t":"2026-11-07T16:00"
+},
+{
+"a":"Newcastle United",
+"h":"Fulham",
+"sa":1,
+"sh":1,
+"t":"2026-11-07T16:00"
+},
+{
+"a":"Manchester City",
+"h":"Nottingham Forest",
+"sa":1,
+"sh":3,
+"t":"2026-11-07T18:30"
+},
+{
+"a":"Brentford",
+"h":"Brighton",
+"sa":0,
+"sh":2,
+"t":"2026-11-08T15:00"
+},
+{
+"a":"Liverpool",
+"h":"Crystal Palace",
+"sa":3,
+"sh":1,
+"t":"2026-11-08T15:00"
+},
+{
+"a":"Bournemouth",
+"h":"Ipswich Town",
+"sa":2,
+"sh":1,
+"t":"2026-11-08T15:00"
+},
+{
+"a":"Chelsea",
+"h":"Sunderland",
+"sa":0,
+"sh":1,
+"t":"2026-11-08T15:00"
+},
+{
+"a":"Aston Villa",
+"h":"Manchester United",
+"sa":4,
+"sh":4,
+"t":"2026-11-08T17:30"
+}
+],
+"name":"10ª giornata"
+},
+{
+"m":[
+{
+"a":"Fulham",
+"h":"Manchester City",
+"t":"2026-11-21T13:30"
+},
+{
+"a":"Nottingham Forest",
+"h":"Bournemouth",
+"t":"2026-11-21T16:00"
+},
+{
+"a":"Sunderland",
+"h":"Aston Villa",
+"t":"2026-11-21T16:00"
+},
+{
+"a":"Leeds United",
+"h":"Chelsea",
+"t":"2026-11-21T16:00"
+},
+{
+"a":"Crystal Palace",
+"h":"Coventry City",
+"t":"2026-11-21T16:00"
+},
+{
+"a":"Ipswich Town",
+"h":"Tottenham",
+"t":"2026-11-21T16:00"
+},
+{
+"a":"Arsenal",
+"h":"Newcastle United",
+"t":"2026-11-21T18:30"
+},
+{
+"a":"Brighton",
+"h":"Hull City",
+"t":"2026-11-22T15:00"
+},
+{
+"a":"Manchester United",
+"h":"Liverpool",
+"t":"2026-11-22T17:30"
+},
+{
+"a":"Everton",
+"h":"Brentford",
+"t":"2026-11-23T21:00"
+}
+],
+"name":"11ª giornata"
+}
+],
+"rows":"Arsenal|27|10|9|0|1|15|5\nBrighton|22|10|7|1|2|26|7\nManchester City|21|10|7|0|3|21|13\nLiverpool|18|10|5|3|2|14|10\nChelsea|16|10|5|1|4|19|16\nEverton|16|10|4|4|2|12|10\nBournemouth|15|10|4|3|3|16|14\nBrentford|14|10|3|5|2|16|11\nLeeds United|14|10|3|5|2|10|8\nAston Villa|13|10|3|4|3|14|17\nTottenham|12|10|3|3|4|10|11\nNewcastle United|12|10|3|3|4|13|16\nHull City|11|10|2|5|3|11|11\nIpswich Town|11|10|3|2|5|15|20\nFulham|10|10|2|4|4|10|12\nNottingham Forest|9|10|2|3|5|9|13\nCoventry City|9|10|3|0|7|10|19\nManchester United|8|10|1|5|4|14|19\nSunderland|8|10|2|2|6|8|17\nCrystal Palace|7|10|2|1|7|10|24",
+"updatedAt":1794231691503
+},
+"primeira-liga":{
+"asOf":"11ª giornata in corso",
+"fonte":"https://www.espn.com/soccer/standings/_/league/por.1",
+"rows":"Porto|33|11|11|0|0|27|5\nBenfica|28|11|9|1|1|30|10\nSporting CP|24|11|7|3|1|24|11\nSanta Clara|21|11|6|3|2|16|8\nArouca|20|11|6|2|3|13|8\nAcadémico de Viseu|20|11|6|2|3|15|13\nGil Vicente|18|11|5|3|3|10|8\nBraga|17|11|5|2|4|13|11\nMoreirense|14|11|4|2|5|13|18\nFamalicão|13|11|3|4|4|15|14\nAlverca|12|11|3|3|5|14|15\nEstrela Amadora|10|11|2|4|5|17|22\nNacional|10|11|3|1|7|11|19\nVitória Guimarães|9|11|2|3|6|11|12\nMarítimo|8|10|2|2|6|9|21\nCasa Pia|8|11|2|2|7|6|20\nRio Ave|7|11|2|1|8|9|24\nEstoril|2|10|0|2|8|5|19",
+"updatedAt":1794231691503
+},
+"serie-a":{
+"asOf":"dopo l'11ª giornata",
+"fonte":"https://www.datasport.it/calcio/serie-a2026-2027/classifica/",
+"rounds":[
+{
+"m":[
+{
+"a":"Como",
+"h":"Inter",
+"sa":0,
+"sh":2,
+"t":"2026-11-08T18:00"
+},
+{
+"a":"Juventus",
+"h":"Fiorentina",
+"sa":2,
+"sh":2,
+"t":"2026-11-08T20:45"
+}
+],
+"name":"11ª giornata"
+}
+],
+"rows":"Lazio|29|11|9|2|0|25|9\nInter|28|11|9|1|1|28|13\nRoma|27|11|8|3|0|31|10\nMilan|24|11|7|3|1|23|13\nComo|23|11|7|2|2|18|10\nFrosinone|20|11|6|2|3|24|15\nJuventus|18|11|5|3|3|15|12\nBologna|17|11|5|2|4|16|14\nCagliari|16|11|5|1|5|10|15\nNapoli|15|11|4|3|4|18|14\nTorino|14|11|4|2|5|15|17\nAtalanta|14|11|4|2|5|17|20\nGenoa|13|11|4|1|6|11|16\nLecce|10|11|3|1|7|12|22\nFiorentina|9|11|2|3|6|17|25\nParma|8|11|2|2|7|9|17\nSassuolo|8|11|2|2|7|16|29\nMonza|7|11|2|1|8|17|25\nVenezia|6|11|2|0|9|8|21\nUdinese|5|11|1|2|8|12|25",
+"updatedAt":1794177585620
+},
+"serie-b":{
+"asOf":"dopo l'11ª giornata",
+"fonte":"https://www.datasport.it/calcio/serie-b2026-2027/classifica/",
+"rows":"Palermo|27|11|8|3|0|25|13\nModena|23|11|7|2|2|20|10\nAscoli|20|11|5|5|1|17|7\nMantova|19|11|5|4|2|15|11\nHellas Verona|16|11|4|4|3|19|13\nAvellino|16|11|4|4|3|16|11\nBenevento|16|11|4|4|3|15|11\nPisa|16|11|4|4|3|20|17\nCremonese|15|11|4|3|4|14|12\nSudtirol|15|11|3|6|2|13|12\nPadova|15|11|4|3|4|12|13\nCesena|15|11|3|6|2|12|14\nJuve Stabia|12|11|4|4|3|12|11\nSampdoria|11|11|3|2|6|11|18\nArezzo|11|11|3|2|6|9|20\nVirtus Entella|10|11|2|4|5|11|14\nCarrarese|10|11|3|1|7|9|14\nEmpoli|9|11|2|3|6|12|19\nL.R. Vicenza|9|11|2|3|6|14|24\nCatanzaro|6|11|1|3|7|11|23",
+"updatedAt":1794177585620
+},
+"serie-c-a":{
+"asOf":"dopo la 13ª giornata",
+"fonte":"https://www.datasport.it/calcio/serie-c-girone-a2026-2027/classifica/",
+"rows":"Cittadella|31|13|10|1|2|19|6\nUnion Brescia|28|13|8|4|1|26|11\nTrento|27|13|7|6|0|19|7\nOspitaletto Franciacorta|22|13|6|4|3|19|11\nTreviso|22|13|6|4|3|14|9\nArzignano Valchiampo|21|13|6|3|4|19|15\nLecco|20|13|5|5|3|22|11\nAlcione Milano|18|13|4|6|3|22|19\nAlbinoLeffe|17|13|4|5|4|20|19\nPergolettese|17|13|4|5|4|14|15\nLumezzane|16|13|4|4|5|14|17\nPro Vercelli|16|13|4|4|5|15|22\nDesenzano|13|13|3|4|6|10|16\nNovara|13|13|3|4|6|11|18\nCarpi|13|13|3|4|6|16|26\nGiana Erminio|12|13|2|6|5|13|17\nRenate|11|13|2|5|6|17|18\nJuventus Next Gen|11|13|2|5|6|12|23\nDolomiti Bellunesi|10|13|2|4|7|10|22\nFolgore Caratese|8|13|1|5|7|11|21",
+"updatedAt":1794177585620
+},
+"serie-c-b":{
+"asOf":"13ª giornata in corso",
+"fonte":"https://www.datasport.it/calcio/serie-c-girone-b2026-2027/classifica/",
+"rows":"Spezia|35|13|11|2|0|25|6\nRavenna|29|13|9|2|2|25|8\nPescara|22|13|6|4|3|18|14\nTorres|22|13|6|4|3|15|12\nGrosseto|21|13|5|6|2|25|18\nReggiana|20|13|6|2|5|19|15\nGuidonia Montecelio|20|13|5|5|3|17|14\nLivorno|20|13|5|5|3|18|17\nCampobasso|19|13|5|4|4|19|21\nAtalanta U23|18|13|6|0|7|18|21\nPerugia|17|13|5|2|6|18|21\nVado|16|13|4|4|5|15|16\nForlì|15|13|3|6|4|17|18\nLatina|15|13|3|6|4|12|14\nPineto|14|12|3|5|4|10|13\nPianese|13|13|2|7|4|10|13\nSambenedettese|10|13|2|4|7|17|22\nOstiamare|9|13|2|3|8|10|19\nGubbio|8|13|2|2|9|10|22\nVis Pesaro|6|12|1|3|8|11|25",
+"updatedAt":1794177585620
+},
+"serie-c-c":{
+"asOf":"13ª giornata in corso",
+"fonte":"https://www.datasport.it/calcio/serie-c-girone-c2026-2027/classifica/",
+"rows":"Potenza|32|13|10|2|1|35|18\nCatania|22|13|7|1|5|26|13\nBari|22|12|6|4|2|15|8\nScafatese|21|13|5|6|2|22|17\nAudace Cerignola|20|13|6|2|5|20|15\nMonopoli|20|13|5|5|3|13|9\nInter U23|20|13|6|2|5|22|20\nCasertana|20|13|5|5|3|17|15\nSorrento|20|13|6|2|5|16|15\nAZ Picerno|18|12|6|0|6|22|19\nGiugliano|16|13|5|1|7|17|29\nCavese|15|12|4|3|5|21|20\nSalernitana|15|13|3|6|4|15|17\nFoggia|15|12|4|3|5|13|15\nCasarano|15|13|4|3|6|15|21\nTeam Altamura|15|12|4|3|5|11|17\nBarletta|12|12|2|6|4|13|16\nSavoia|12|13|2|6|5|14|21\nCosenza|10|13|2|4|7|10|23\nCrotone|7|13|1|4|8|12|21",
+"updatedAt":1794177585620
+},
+"serie-d-i":{
+"asOf":"dopo l'11ª giornata",
+"fonte":"https://www.datasport.it/calcio/serie-d-girone-i2026-2027/classifica/",
+"rows":"Reggina|26|11|8|2|1|28|7\nSambiase|26|11|8|2|1|19|8\nVibonese|24|11|7|3|1|24|10\nAvola|19|11|6|1|4|17|16\nMilazzo|19|11|6|1|4|14|13\nDigiesse PraiaTortora|18|11|5|3|3|16|10\nNuova Igea Virtus|18|11|5|3|3|25|22\nLicata|17|11|5|2|4|13|19\nGela|15|11|4|4|3|12|9\nAthletic Club Palermo|14|11|4|2|5|13|14\nModica|13|11|4|1|6|14|13\nNissa F.C.|12|11|3|3|5|16|15\nSiracusa|11|11|5|3|3|16|12\nTrapani 1905|9|11|4|2|5|9|14\nCastrumFavara|8|11|2|2|7|12|19\nVigor Lamezia|8|11|2|2|7|11|21\nRagusa Calcio|3|11|0|3|8|9|23\nEnna|3|11|0|3|8|4|27",
+"updatedAt":1794177585620
+}
+}
+}
